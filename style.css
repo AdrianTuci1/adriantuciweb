@@ -1,0 +1,92 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #f1f1f1;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+header h1 {
+  font-size: 2em;
+  margin: 0;
+}
+
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav li {
+  display: inline-block;
+  margin-right: 20px;
+}
+
+nav a {
+  text-decoration: none;
+  color: #333;
+}
+
+main {
+  padding: 20px;
+}
+
+section {
+  margin-bottom: 20px;
+}
+
+h2 {
+  margin-bottom: 10px;
+}
+
+p {
+  line-height: 1.5;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+li {
+  margin-bottom: 5px;
+}
+
+footer {
+  background-color: #f1f1f1;
+  padding: 10px;
+}
+
+#profile {
+  margin-top: 40px;
+  width: 240px;
+  height: 240px;
+}
+
+.sectionmain {
+  display: flex; 
+}
+
+#about-me {
+  margin-right: 30px;
+}
+
+.skillsimg {
+  display: flex;
+}
+
+.skillsimg img{
+  width: 40px;
+  height: 40px;
+}
+
+textarea {
+  margin-top: 20px;
+}
